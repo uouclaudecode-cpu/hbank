@@ -163,6 +163,14 @@
   "job_type": "추천채용"
  },
  {
+  "bank": "kb",
+  "title": "2026 하반기 연금상품부 퇴직직원 재채용[퇴직연금 OP 업무지원 부문]",
+  "link": "https://recruit.incruit.com/kbstar/job/2610120013",
+  "posted": "2026-10-12T00:00:00+09:00",
+  "deadline": "2026-10-19T18:00:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
   "bank": "shinhan",
   "title": "[신한은행] (26-10) 영업점 창구업무 업무지원계약인력 채용",
   "link": "https://shinhan.recruiter.co.kr/career/jobs/130625",
@@ -360,6 +368,14 @@
   "link": "https://recruit.incruit.com/kbstar/job/2609290012",
   "posted": "2026-09-29T00:00:00+09:00",
   "deadline": "2026-10-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "(가양역) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2610120014",
+  "posted": "2026-10-12T00:00:00+09:00",
+  "deadline": "2026-11-10T23:59:00+09:00",
   "via": "공식 채용사이트"
  },
  {
@@ -1062,15 +1078,6 @@
   "bank": "toss",
   "title": "Card Operations Specialist",
   "link": "https://toss.im/career/job-detail?gh_jid=7478795003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
- },
- {
-  "bank": "toss",
-  "title": "Collections Specialist (대위변제)",
-  "link": "https://toss.im/career/job-detail?gh_jid=7577555003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
