@@ -210,6 +210,56 @@
  },
  {
   "bank": "kbank",
+  "title": "모바일 앱 서비스 기획자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/131057",
+  "posted": "2026-10-13T00:00:00+09:00",
+  "deadline": "2026-10-25T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "BizㆍMarketing"
+ },
+ {
+  "bank": "kbank",
+  "title": "기업 여신 정책/심사 기획 및 운영 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/131054",
+  "posted": "2026-10-13T00:00:00+09:00",
+  "deadline": "2026-10-25T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "BizㆍMarketing"
+ },
+ {
+  "bank": "kbank",
+  "title": "대외협력 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/131047",
+  "posted": "2026-10-13T00:00:00+09:00",
+  "deadline": "2026-10-25T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Management"
+ },
+ {
+  "bank": "kbank",
+  "title": "금융사기 대응 기획",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/131056",
+  "posted": "2026-10-13T00:00:00+09:00",
+  "deadline": "2026-10-25T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Customer"
+ },
+ {
+  "bank": "kbank",
+  "title": "전기통신 금융사기 운영 및 모니터링 업무 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/131062",
+  "posted": "2026-10-13T00:00:00+09:00",
+  "deadline": "2026-10-25T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "Customer"
+ },
+ {
+  "bank": "kbank",
   "title": "[Biz · Marketing] 채용연계형 인턴십",
   "link": "https://kbank.recruiter.co.kr/career/jobs/130973",
   "posted": "2026-10-13T14:30:00+09:00",
@@ -227,6 +277,25 @@
   "via": "공식 채용사이트",
   "career": "",
   "job_type": "Tech"
+ },
+ {
+  "bank": "woori",
+  "title": "우리은행 방카슈랑스 영업지원 (WM상품부) 전문직 채용공고",
+  "link": "https://recruit.incruit.com/wooribank/job/2609280011",
+  "posted": "2026-09-28T00:00:00+09:00",
+  "deadline": "2026-10-26T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "exim",
+  "title": "한국수출입은행 2026년 하반기 장애인 청년인턴 채용",
+  "link": "https://recruit.koreaexim.go.kr/index/",
+  "posted": "2026-10-13T23:59:00+09:00",
+  "deadline": "2026-10-27T23:59:00+09:00",
+  "via": "잡알리오",
+  "career": "신입",
+  "job_type": "청년인턴(체험형)",
+  "location": "서울,부산"
  },
  {
   "bank": "kakao",
@@ -336,6 +405,15 @@
  },
  {
   "bank": "kakao",
+  "title": "수신제도(정책) 담당자",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=262378",
+  "posted": "2026-08-05T00:00:00+09:00",
+  "deadline": "2026-11-02T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
   "title": "데이터 엔지니어 - Data Warehouse",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=260510",
   "posted": "2026-07-16T00:00:00+09:00",
@@ -353,11 +431,36 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "kakao",
+  "title": "AI 엔지니어",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=264119",
+  "posted": "2026-08-24T00:00:00+09:00",
+  "deadline": "2026-11-03T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "AI"
+ },
+ {
   "bank": "kb",
   "title": "(가양역) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
   "link": "https://recruit.incruit.com/kbstar/job/2610120014",
   "posted": "2026-10-12T00:00:00+09:00",
   "deadline": "2026-11-10T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "KB국민은행 영업점 창구 텔러 파트타이머 인재 Pool",
+  "link": "https://recruit.incruit.com/kbstar/job/2610130019",
+  "posted": "2026-10-13T00:00:00+09:00",
+  "deadline": "2026-11-11T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "(공고지역 본문 참고) KB국민은행 스마트어드바이저 인재 Pool",
+  "link": "https://recruit.incruit.com/kbstar/job/2610130018",
+  "posted": "2026-10-13T00:00:00+09:00",
+  "deadline": "2026-11-11T23:59:00+09:00",
   "via": "공식 채용사이트"
  },
  {
@@ -1248,15 +1351,6 @@
   "bank": "toss",
   "title": "ML Data Assistant",
   "link": "https://toss.im/career/job-detail?gh_jid=6025151003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "단기계약직"
- },
- {
-  "bank": "toss",
-  "title": "Privacy Operations Assistant",
-  "link": "https://toss.im/career/job-detail?gh_jid=7985110003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
