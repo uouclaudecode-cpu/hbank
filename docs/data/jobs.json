@@ -145,6 +145,14 @@
   "job_type": "AI"
  },
  {
+  "bank": "kb",
+  "title": "[외환업무부] 2026년 하반기 외환업무부 파트타이머 채용 공고 [외환 증빙서류 점검]",
+  "link": "https://recruit.incruit.com/kbstar/job/2610150024",
+  "posted": "2026-10-15T00:00:00+09:00",
+  "deadline": "2026-10-21T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
   "bank": "kakao",
   "title": "재무리스크 시스템 개발자 (계약직)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=263314",
@@ -350,6 +358,24 @@
  },
  {
   "bank": "kakao",
+  "title": "인증 플랫폼 기획 담당자 (채용연계형 인턴)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269180",
+  "posted": "2026-10-15T16:00:00+09:00",
+  "deadline": "2026-11-02T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
+  "title": "금융거래정보제공 업무 담당자 (채용연계형 인턴)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269299",
+  "posted": "2026-10-15T16:00:00+09:00",
+  "deadline": "2026-11-02T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Customer Service"
+ },
+ {
+  "bank": "kakao",
   "title": "수신제도(정책) 담당자",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=262378",
   "posted": "2026-08-05T00:00:00+09:00",
@@ -368,15 +394,6 @@
  },
  {
   "bank": "kakao",
-  "title": "인증 플랫폼 기획 담당자 (채용연계형 인턴)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269180",
-  "posted": "2026-10-15T16:00:00+09:00",
-  "deadline": "2026-11-02T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
   "title": "서비스 기획자 - 신사업",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=266112",
   "posted": "2026-09-09T00:00:00+09:00",
@@ -392,6 +409,24 @@
   "deadline": "2026-11-03T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "AI"
+ },
+ {
+  "bank": "kakao",
+  "title": "방카슈랑스 사업 기획 담당자",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=253879",
+  "posted": "2026-05-13T00:00:00+09:00",
+  "deadline": "2026-11-05T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
+  "title": "퇴직연금 도메인 개발자",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=244006",
+  "posted": "2026-02-09T00:00:00+09:00",
+  "deadline": "2026-11-05T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Server"
  },
  {
   "bank": "kb",
@@ -505,14 +540,6 @@
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "상시채용"
- },
- {
-  "bank": "kb",
-  "title": "KB국민은행 \"빗썸라운지 업무지원(파트타이머)\" 채용 공고_강남영업추진그룹",
-  "link": "https://recruit.incruit.com/kbstar/job/2609300005",
-  "posted": "2026-09-30T00:00:00+09:00",
-  "deadline": "2026-12-31T23:59:00+09:00",
-  "via": "공식 채용사이트"
  },
  {
   "bank": "kb",
@@ -883,6 +910,26 @@
   "via": "공식 채용사이트",
   "career": "경력",
   "job_type": "상시"
+ },
+ {
+  "bank": "nh",
+  "title": "2026년 [금융·테크] 6급 신규직원 채용",
+  "link": "https://nhbank.incruit.com/hire/viewhire.asp?projectid=103",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "career": "신입",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "nh",
+  "title": "2026년 [보훈] 6급 신규직원 채용",
+  "link": "https://nhbank.incruit.com/hire/viewhire.asp?projectid=104",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "career": "신입",
+  "job_type": "정규직"
  },
  {
   "bank": "nh",
