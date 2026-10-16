@@ -412,6 +412,15 @@
   "job_type": "Server"
  },
  {
+  "bank": "kakao",
+  "title": "뱅킹 아키텍트",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=238703",
+  "posted": "2026-01-01T00:00:00+09:00",
+  "deadline": "2026-11-06T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Engineering"
+ },
+ {
   "bank": "kb",
   "title": "(가양역) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
   "link": "https://recruit.incruit.com/kbstar/job/2610120014",
