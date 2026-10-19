@@ -1,13 +1,5 @@
 [
  {
-  "bank": "kb",
-  "title": "2026 하반기 연금상품부 퇴직직원 재채용[퇴직연금 OP 업무지원 부문]",
-  "link": "https://recruit.incruit.com/kbstar/job/2610120013",
-  "posted": "2026-10-12T00:00:00+09:00",
-  "deadline": "2026-10-19T18:00:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
   "bank": "shinhan",
   "title": "[신한은행] (26-10) 영업점 창구업무 업무지원계약인력 채용",
   "link": "https://shinhan.recruiter.co.kr/career/jobs/130625",
@@ -452,6 +444,14 @@
   "link": "https://recruit.incruit.com/kbstar/job/2610130018",
   "posted": "2026-10-13T00:00:00+09:00",
   "deadline": "2026-11-11T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "[비대면 기업대출 상담센터] KB국민은행 파트타이머 채용 공고_대고객 콜 상담 업무 부문",
+  "link": "https://recruit.incruit.com/kbstar/job/2608100004",
+  "posted": "2026-10-19T13:00:00+09:00",
+  "deadline": "2026-11-13T18:00:00+09:00",
   "via": "공식 채용사이트"
  },
  {
@@ -1424,7 +1424,16 @@
  },
  {
   "bank": "toss",
-  "title": "Visual Design Assistant",
+  "title": "Visual Design Assistant (Brand)",
+  "link": "https://toss.im/career/job-detail?gh_jid=5748739003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "단기계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "Visual Design Assistant (Graphic)",
   "link": "https://toss.im/career/job-detail?gh_jid=7626141003",
   "posted": null,
   "deadline": null,
