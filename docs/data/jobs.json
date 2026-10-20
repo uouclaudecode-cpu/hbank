@@ -321,21 +321,21 @@
  },
  {
   "bank": "kakao",
-  "title": "서비스 기획자 - 신사업",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=266112",
-  "posted": "2026-09-09T00:00:00+09:00",
-  "deadline": "2026-11-03T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
   "title": "AI 엔지니어",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=264119",
   "posted": "2026-08-24T00:00:00+09:00",
   "deadline": "2026-11-03T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "AI"
+ },
+ {
+  "bank": "kakao",
+  "title": "서비스 기획자 - 신사업",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=266112",
+  "posted": "2026-09-09T00:00:00+09:00",
+  "deadline": "2026-11-03T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
  },
  {
   "bank": "kakao",
@@ -372,6 +372,15 @@
   "deadline": "2026-11-09T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Finance"
+ },
+ {
+  "bank": "kakao",
+  "title": "Vision AI 엔지니어",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=264360",
+  "posted": "2026-10-20T00:00:00+09:00",
+  "deadline": "2026-11-10T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "AI"
  },
  {
   "bank": "kb",
