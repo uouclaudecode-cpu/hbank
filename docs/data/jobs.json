@@ -1,13 +1,5 @@
 [
  {
-  "bank": "kb",
-  "title": "2026년 하반기 퇴직직원 재채용(여신정책부 업무상담 HelpDesk) 공고",
-  "link": "https://recruit.incruit.com/kbstar/job/2610120019",
-  "posted": "2026-10-13T09:00:00+09:00",
-  "deadline": "2026-10-21T17:00:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
   "bank": "kakao",
   "title": "LLM 서빙 및 추론 최적화 엔지니어",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=262701",
@@ -168,6 +160,14 @@
   "deadline": "2026-10-27T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Compliance"
+ },
+ {
+  "bank": "kb",
+  "title": "2026년 하반기 퇴직직원 재채용(여신정책부 업무상담 HelpDesk) 공고",
+  "link": "https://recruit.incruit.com/kbstar/job/2610120019",
+  "posted": "2026-10-13T09:00:00+09:00",
+  "deadline": "2026-10-28T17:00:00+09:00",
+  "via": "공식 채용사이트"
  },
  {
   "bank": "kakao",
@@ -340,12 +340,30 @@
   "job_type": "AI"
  },
  {
+  "bank": "kakao",
+  "title": "여신 전자등기 운영 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=265751",
+  "posted": "2026-09-07T00:00:00+09:00",
+  "deadline": "2026-11-10T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
   "bank": "kb",
   "title": "(가양역) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
   "link": "https://recruit.incruit.com/kbstar/job/2610120014",
   "posted": "2026-10-12T00:00:00+09:00",
   "deadline": "2026-11-10T23:59:00+09:00",
   "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kakao",
+  "title": "IR 담당자",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=267630",
+  "posted": "2026-09-23T00:00:00+09:00",
+  "deadline": "2026-11-11T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Strategy"
  },
  {
   "bank": "kb",
@@ -1051,8 +1069,8 @@
  },
  {
   "bank": "toss",
-  "title": "Data Analytics Specialist (2년 이하)",
-  "link": "https://toss.im/career/job-detail?gh_jid=7782783003",
+  "title": "Data Engineering Specialist",
+  "link": "https://toss.im/career/job-detail?gh_jid=8039958003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
