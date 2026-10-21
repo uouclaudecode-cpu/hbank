@@ -434,6 +434,14 @@
  },
  {
   "bank": "kb",
+  "title": "(서초역) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2610210008",
+  "posted": "2026-10-21T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
   "title": "[수도권] KB국민은행 PT(영업점 텔러) 긴급채용(인스파이어점)",
   "link": "https://recruit.incruit.com/kbstar/job/2609150007",
   "posted": "2026-09-22T00:00:00+09:00",
@@ -1016,15 +1024,6 @@
  },
  {
   "bank": "toss",
-  "title": "Corporate Credit Rating Team Leader",
-  "link": "https://toss.im/career/job-detail?gh_jid=6991648003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
   "title": "Credit Rating Modeler",
   "link": "https://toss.im/career/job-detail?gh_jid=7690345003",
   "posted": null,
@@ -1229,6 +1228,15 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "Savings Operations Specialist",
+  "link": "https://toss.im/career/job-detail?gh_jid=8039736003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
  },
  {
   "bank": "toss",
