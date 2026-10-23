@@ -392,6 +392,14 @@
  },
  {
   "bank": "kb",
+  "title": "(반포역) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2610230007",
+  "posted": "2026-10-23T00:00:00+09:00",
+  "deadline": "2026-11-21T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
   "title": "[강북] KB국민은행  [기동인력반 파트타이머] 상시 Pool 모집",
   "link": "https://recruit.incruit.com/kbstar/job/2609230001",
   "posted": "2026-09-23T00:00:00+09:00",
@@ -464,6 +472,14 @@
   "title": "(이수역) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
   "link": "https://recruit.incruit.com/kbstar/job/2608120003",
   "posted": "2026-10-06T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "(선릉역종합금융센터) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2608100020",
+  "posted": "2026-10-23T00:00:00+09:00",
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트"
  },
@@ -900,6 +916,15 @@
  },
  {
   "bank": "toss",
+  "title": "General Affairs Specialist",
+  "link": "https://toss.im/career/job-detail?gh_jid=6016364003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
   "title": "HRBP",
   "link": "https://toss.im/career/job-detail?gh_jid=5548248003",
   "posted": null,
@@ -972,8 +997,8 @@
  },
  {
   "bank": "toss",
-  "title": "AIOps Platform Engineer",
-  "link": "https://toss.im/career/job-detail?gh_jid=7702581003",
+  "title": "IT Governance Manager",
+  "link": "https://toss.im/career/job-detail?gh_jid=8042416003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
@@ -981,8 +1006,8 @@
  },
  {
   "bank": "toss",
-  "title": "AI Product Team Leader",
-  "link": "https://toss.im/career/job-detail?gh_jid=7775866003",
+  "title": "AIOps Platform Engineer",
+  "link": "https://toss.im/career/job-detail?gh_jid=7702581003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
@@ -1109,15 +1134,6 @@
   "bank": "toss",
   "title": "IT Assurance Manager",
   "link": "https://toss.im/career/job-detail?gh_jid=7700084003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "IT Governance Manager (BCP)",
-  "link": "https://toss.im/career/job-detail?gh_jid=7531919003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
@@ -1302,6 +1318,15 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "Technical Product Owner (AI)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8042384003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
  },
  {
   "bank": "toss",
