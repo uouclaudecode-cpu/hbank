@@ -383,6 +383,15 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "kakao",
+  "title": "개인사업자 대출 상품 운영 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270229",
+  "posted": "2026-10-23T00:00:00+09:00",
+  "deadline": "2026-11-12T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
   "bank": "kb",
   "title": "[비대면 기업대출 상담센터] KB국민은행 파트타이머 채용 공고_대고객 콜 상담 업무 부문",
   "link": "https://recruit.incruit.com/kbstar/job/2610200014",
@@ -880,6 +889,15 @@
  },
  {
   "bank": "toss",
+  "title": "Collections Manager",
+  "link": "https://toss.im/career/job-detail?gh_jid=6255661003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
   "title": "Compliance Manager",
   "link": "https://toss.im/career/job-detail?gh_jid=4167754003",
   "posted": null,
@@ -1098,6 +1116,15 @@
   "bank": "toss",
   "title": "Data Governance Manager",
   "link": "https://toss.im/career/job-detail?gh_jid=7702489003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "Data Manager (Mart)",
+  "link": "https://toss.im/career/job-detail?gh_jid=7566080003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
