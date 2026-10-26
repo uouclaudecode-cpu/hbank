@@ -1,35 +1,5 @@
 [
  {
-  "bank": "kbank",
-  "title": "[Biz · Marketing] 채용연계형 인턴십",
-  "link": "https://kbank.recruiter.co.kr/career/jobs/130973",
-  "posted": "2026-10-13T14:30:00+09:00",
-  "deadline": "2026-10-26T17:00:00+09:00",
-  "via": "공식 채용사이트",
-  "career": "",
-  "job_type": "BizㆍMarketing"
- },
- {
-  "bank": "kbank",
-  "title": "[Tech] 채용연계형 인턴십",
-  "link": "https://kbank.recruiter.co.kr/career/jobs/130913",
-  "posted": "2026-10-13T14:30:00+09:00",
-  "deadline": "2026-10-26T17:00:00+09:00",
-  "via": "공식 채용사이트",
-  "career": "",
-  "job_type": "Tech"
- },
- {
-  "bank": "im",
-  "title": "2026년 지원직원(비대면 금융사고 모니터링)채용",
-  "link": "https://im.recruiter.co.kr/career/jobs/131594",
-  "posted": "2026-10-19T09:00:00+09:00",
-  "deadline": "2026-10-26T22:00:00+09:00",
-  "via": "공식 채용사이트",
-  "career": "신입",
-  "job_type": "신입"
- },
- {
   "bank": "woori",
   "title": "우리은행 방카슈랑스 영업지원 (WM상품부) 전문직 채용공고",
   "link": "https://recruit.incruit.com/wooribank/job/2609280011",
@@ -253,6 +223,14 @@
  },
  {
   "bank": "woori",
+  "title": "우리은행 AI서비스기획_AI사업개발  (AI데이터사업부) 전문직 채용공고",
+  "link": "https://recruit.incruit.com/wooribank/job/2610260015",
+  "posted": "2026-10-26T00:00:00+09:00",
+  "deadline": "2026-11-09T00:00:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "woori",
   "title": "우리은행 데이터 사이언티스트 (AI데이터사업부_AI고객컨택) 전문직 채용공고",
   "link": "https://recruit.incruit.com/wooribank/job/2610230012",
   "posted": "2026-10-26T00:00:00+09:00",
@@ -294,6 +272,15 @@
   "deadline": "2026-11-10T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
+  "title": "금융기술연구소 홈페이지 콘텐츠 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=263947",
+  "posted": "2026-08-21T00:00:00+09:00",
+  "deadline": "2026-11-10T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Strategy"
  },
  {
   "bank": "kb",
@@ -356,6 +343,15 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "kakao",
+  "title": "백엔드 개발자",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=248549",
+  "posted": "2026-03-20T00:00:00+09:00",
+  "deadline": "2026-11-12T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Server"
+ },
+ {
   "bank": "kb",
   "title": "[비대면 기업대출 상담센터] KB국민은행 파트타이머 채용 공고_대고객 콜 상담 업무 부문",
   "link": "https://recruit.incruit.com/kbstar/job/2610200014",
@@ -371,6 +367,15 @@
   "deadline": "2026-11-16T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
+  "title": "재무리스크 시스템 개발자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=263314",
+  "posted": "2026-08-14T00:00:00+09:00",
+  "deadline": "2026-11-16T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Core Banking"
  },
  {
   "bank": "kb",
@@ -768,6 +773,26 @@
   "job_type": "금융 · 보험"
  },
  {
+  "bank": "im",
+  "title": "[iM뱅크] 안드로이드 개발자 채용",
+  "link": "https://im.recruiter.co.kr/career/jobs/132356",
+  "posted": "2026-10-26T00:00:00+09:00",
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "career": "신입",
+  "job_type": "경력"
+ },
+ {
+  "bank": "im",
+  "title": "[iM뱅크] AI DevOps 채용",
+  "link": "https://im.recruiter.co.kr/career/jobs/132367",
+  "posted": "2026-10-26T00:00:00+09:00",
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "career": "신입",
+  "job_type": "경력"
+ },
+ {
   "bank": "kyongnam",
   "title": "영업점 수신창구(피크타이머) 상시 채용공고",
   "link": "https://knbank.recruiter.co.kr/career/jobs/62411",
@@ -920,15 +945,6 @@
   "bank": "toss",
   "title": "Product Manager",
   "link": "https://toss.im/career/job-detail?gh_jid=7611090003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "Product Operations Manager",
-  "link": "https://toss.im/career/job-detail?gh_jid=7972062003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
@@ -1181,15 +1197,6 @@
   "bank": "toss",
   "title": "여신 제도 Manager",
   "link": "https://toss.im/career/job-detail?gh_jid=5417612003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "외환 상품 Manager (해외송금)",
-  "link": "https://toss.im/career/job-detail?gh_jid=7761021003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
