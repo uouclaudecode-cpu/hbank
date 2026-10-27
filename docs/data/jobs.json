@@ -275,14 +275,6 @@
   "job_type": "Strategy"
  },
  {
-  "bank": "kb",
-  "title": "(가양역) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
-  "link": "https://recruit.incruit.com/kbstar/job/2610120014",
-  "posted": "2026-10-12T00:00:00+09:00",
-  "deadline": "2026-11-10T23:59:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
   "bank": "kakao",
   "title": "IR 담당자",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=267630",
@@ -315,6 +307,16 @@
   "posted": "2026-10-13T00:00:00+09:00",
   "deadline": "2026-11-11T23:59:00+09:00",
   "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kyongnam",
+  "title": "BNK경남은행 계약직(사무행원) 신규 채용",
+  "link": "https://knbank.recruiter.co.kr/career/jobs/132486",
+  "posted": "2026-10-27T00:00:00+09:00",
+  "deadline": "2026-11-11T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "수시"
  },
  {
   "bank": "kakao",
@@ -370,6 +372,15 @@
   "job_type": "Core Banking"
  },
  {
+  "bank": "kakao",
+  "title": "펀드 제도 기획 및 운영 업무 담당자",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270466",
+  "posted": "2026-10-27T00:00:00+09:00",
+  "deadline": "2026-11-17T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
   "bank": "kb",
   "title": "[강북] KB국민은행  [기동인력반 파트타이머] 상시 Pool 모집",
   "link": "https://recruit.incruit.com/kbstar/job/2609230001",
@@ -419,14 +430,6 @@
   "title": "(서초역) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
   "link": "https://recruit.incruit.com/kbstar/job/2610210008",
   "posted": "2026-10-21T00:00:00+09:00",
-  "deadline": "2026-12-31T23:59:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
-  "bank": "kb",
-  "title": "[수도권] KB국민은행 PT(영업점 텔러) 긴급채용(인스파이어점)",
-  "link": "https://recruit.incruit.com/kbstar/job/2609150007",
-  "posted": "2026-09-22T00:00:00+09:00",
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트"
  },
