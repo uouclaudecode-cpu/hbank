@@ -239,6 +239,14 @@
   "job_type": "Finance"
  },
  {
+  "bank": "woori",
+  "title": "우리은행 방카슈랑스 영업지원 (WM상품부) 전문직 채용공고",
+  "link": "https://recruit.incruit.com/wooribank/job/2609280011",
+  "posted": "2026-09-28T00:00:00+09:00",
+  "deadline": "2026-11-09T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
   "bank": "kakao",
   "title": "인재영입 어시스턴트 (체험형 인턴)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270312",
@@ -352,6 +360,17 @@
   "posted": "2026-10-20T00:00:00+09:00",
   "deadline": "2026-11-13T18:00:00+09:00",
   "via": "공식 채용사이트"
+ },
+ {
+  "bank": "ibk",
+  "title": "2027년 동계 IBK기업은행 체험형 청년인턴 채용공고",
+  "link": "https://ibk.incruit.com",
+  "posted": "2026-10-27T23:59:00+09:00",
+  "deadline": "2026-11-16T23:59:00+09:00",
+  "via": "잡알리오",
+  "career": "신입",
+  "job_type": "청년인턴(체험형)",
+  "location": "서울,부산,대구,인천,대전,울산,세종,경기,강원,충북,충남,전북,전남광주,경북,경남,제주"
  },
  {
   "bank": "kakao",
@@ -518,6 +537,14 @@
   "title": "(공고지역 본문 참고) KB국민은행 \"영업점 텔러(파트타이머)\" 상시 Pool 모집_강남영업추진그룹",
   "link": "https://recruit.incruit.com/kbstar/job/2602100004",
   "posted": "2026-10-06T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "KB국민은행 인천국제공항 환전전문매니저 상시모집",
+  "link": "https://recruit.incruit.com/kbstar/job/2410080007",
+  "posted": "2026-01-01T09:00:00+09:00",
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트"
  },
