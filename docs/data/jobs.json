@@ -45,21 +45,21 @@
  },
  {
   "bank": "kakao",
-  "title": "금융거래정보제공 업무 담당자 (채용연계형 인턴)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269299",
-  "posted": "2026-10-15T16:00:00+09:00",
-  "deadline": "2026-11-02T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Customer Service"
- },
- {
-  "bank": "kakao",
   "title": "인증 플랫폼 기획 담당자 (채용연계형 인턴)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269180",
   "posted": "2026-10-15T16:00:00+09:00",
   "deadline": "2026-11-02T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
+  "title": "금융거래정보제공 업무 담당자 (채용연계형 인턴)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269299",
+  "posted": "2026-10-15T16:00:00+09:00",
+  "deadline": "2026-11-02T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Customer Service"
  },
  {
   "bank": "kakao",
@@ -255,18 +255,18 @@
  },
  {
   "bank": "kakao",
-  "title": "서비스 기획자 - 수신",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270129",
-  "posted": "2026-10-22T00:00:00+09:00",
+  "title": "개인사업자 대출 상품 운영 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270229",
+  "posted": "2026-10-23T00:00:00+09:00",
   "deadline": "2026-11-12T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Service & Biz"
  },
  {
   "bank": "kakao",
-  "title": "개인사업자 대출 상품 운영 담당자 (계약직)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270229",
-  "posted": "2026-10-23T00:00:00+09:00",
+  "title": "서비스 기획자 - 수신",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270129",
+  "posted": "2026-10-22T00:00:00+09:00",
   "deadline": "2026-11-12T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Service & Biz"
@@ -287,6 +287,24 @@
   "posted": "2026-10-20T00:00:00+09:00",
   "deadline": "2026-11-13T18:00:00+09:00",
   "via": "공식 채용사이트"
+ },
+ {
+  "bank": "toss",
+  "title": "Asset Assistant (보훈특별채용, ~11/15)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8058123003",
+  "posted": null,
+  "deadline": "2026-11-15T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "단기계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "General Affairs Assistant (보훈특별채용, ~11/15)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8047226003",
+  "posted": null,
+  "deadline": "2026-11-15T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "단기계약직"
  },
  {
   "bank": "ibk",
@@ -335,6 +353,14 @@
   "via": "공식 채용사이트"
  },
  {
+  "bank": "kb",
+  "title": "(김포통진종합금융센터) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2610290017",
+  "posted": "2026-10-29T00:00:00+09:00",
+  "deadline": "2026-11-27T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
   "bank": "im",
   "title": "[iM뱅크] AI DevOps 채용",
   "link": "https://im.recruiter.co.kr/career/jobs/124907",
@@ -362,6 +388,22 @@
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "상시채용"
+ },
+ {
+  "bank": "kb",
+  "title": "[삼성중앙역(점)] KB국민은행 \"스마트어드바이저\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2610290007",
+  "posted": "2026-10-29T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "(여의도리버타워) KB국민은행 \"스마트어드바이저\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2610290005",
+  "posted": "2026-10-29T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
  },
  {
   "bank": "kb",
