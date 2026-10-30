@@ -9,33 +9,6 @@
   "job_type": "Service & Biz"
  },
  {
-  "bank": "kakao",
-  "title": "금융업무 지원 담당자 - 국가보훈대상자 전형 (계약직)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=238695",
-  "posted": "2026-01-01T00:00:00+09:00",
-  "deadline": "2026-10-30T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Customer Service"
- },
- {
-  "bank": "kakao",
-  "title": "금융업무 지원 담당자 (계약직)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=238683",
-  "posted": "2026-01-01T00:00:00+09:00",
-  "deadline": "2026-10-30T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Customer Service"
- },
- {
-  "bank": "kakao",
-  "title": "STR 모니터링 담당자 (계약직)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=238675",
-  "posted": "2026-01-01T00:00:00+09:00",
-  "deadline": "2026-10-30T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Compliance"
- },
- {
   "bank": "woori",
   "title": "우리은행 IT보안 모의해킹 (정보보호부) 전문직 채용공고",
   "link": "https://recruit.incruit.com/wooribank/job/2610190001",
@@ -353,6 +326,15 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "kakao",
+  "title": "서비스 기획자 - 퇴직연금",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270952",
+  "posted": "2026-10-30T00:00:00+09:00",
+  "deadline": "2026-11-19T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
   "bank": "kb",
   "title": "[강북] KB국민은행  [기동인력반 파트타이머] 상시 Pool 모집",
   "link": "https://recruit.incruit.com/kbstar/job/2609230001",
@@ -367,6 +349,33 @@
   "posted": "2026-10-29T00:00:00+09:00",
   "deadline": "2026-11-27T23:59:00+09:00",
   "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kakao",
+  "title": "STR 모니터링 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=238675",
+  "posted": "2026-01-01T00:00:00+09:00",
+  "deadline": "2026-11-30T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Compliance"
+ },
+ {
+  "bank": "kakao",
+  "title": "금융업무 지원 담당자 - 국가보훈대상자 전형 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=238695",
+  "posted": "2026-01-01T00:00:00+09:00",
+  "deadline": "2026-12-03T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Customer Service"
+ },
+ {
+  "bank": "kakao",
+  "title": "금융업무 지원 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=238683",
+  "posted": "2026-01-01T00:00:00+09:00",
+  "deadline": "2026-12-03T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Customer Service"
  },
  {
   "bank": "im",
@@ -1275,15 +1284,6 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "계약직"
- },
- {
-  "bank": "toss",
-  "title": "Technical Product Owner (AI)",
-  "link": "https://toss.im/career/job-detail?gh_jid=8042384003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
  },
  {
   "bank": "toss",
