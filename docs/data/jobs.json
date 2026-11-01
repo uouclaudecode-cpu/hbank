@@ -1,13 +1,5 @@
 [
  {
-  "bank": "woori",
-  "title": "우리은행 IT보안 모의해킹 (정보보호부) 전문직 채용공고",
-  "link": "https://recruit.incruit.com/wooribank/job/2610190001",
-  "posted": "2026-10-19T00:00:00+09:00",
-  "deadline": "2026-11-02T00:00:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
   "bank": "kakao",
   "title": "인증 플랫폼 기획 담당자 (채용연계형 인턴)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269180",
@@ -254,7 +246,7 @@
  },
  {
   "bank": "toss",
-  "title": "Asset Assistant (보훈특별채용, ~11/15)",
+  "title": "자산관리 어시스턴트 (보훈특별채용, ~11/15)",
   "link": "https://toss.im/career/job-detail?gh_jid=8058123003",
   "posted": null,
   "deadline": "2026-11-15T23:59:00+09:00",
@@ -263,7 +255,7 @@
  },
  {
   "bank": "toss",
-  "title": "General Affairs Assistant (보훈특별채용, ~11/15)",
+  "title": "총무 어시스턴트 (보훈특별채용, ~11/15)",
   "link": "https://toss.im/career/job-detail?gh_jid=8047226003",
   "posted": null,
   "deadline": "2026-11-15T23:59:00+09:00",
@@ -819,7 +811,7 @@
  },
  {
   "bank": "toss",
-  "title": "AML Manager",
+  "title": "AML 매니저 (KYC 기획 및 운영)",
   "link": "https://toss.im/career/job-detail?gh_jid=5511044003",
   "posted": null,
   "deadline": null,
@@ -837,7 +829,7 @@
  },
  {
   "bank": "toss",
-  "title": "CA Operations Manager",
+  "title": "수신운영 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=4651099003",
   "posted": null,
   "deadline": null,
@@ -846,7 +838,7 @@
  },
  {
   "bank": "toss",
-  "title": "Collections Manager",
+  "title": "여신관리 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=6255661003",
   "posted": null,
   "deadline": null,
@@ -855,7 +847,7 @@
  },
  {
   "bank": "toss",
-  "title": "Compliance Manager",
+  "title": "컴플라이언스 매니저",
   "link": "https://toss.im/career/job-detail?gh_jid=4167754003",
   "posted": null,
   "deadline": null,
@@ -864,7 +856,7 @@
  },
  {
   "bank": "toss",
-  "title": "Consumer Protection Manager",
+  "title": "금융소비자보호 매니저",
   "link": "https://toss.im/career/job-detail?gh_jid=7830494003",
   "posted": null,
   "deadline": null,
@@ -873,7 +865,7 @@
  },
  {
   "bank": "toss",
-  "title": "Data Engineer",
+  "title": "데이터 엔지니어",
   "link": "https://toss.im/career/job-detail?gh_jid=4695176003",
   "posted": null,
   "deadline": null,
@@ -882,7 +874,7 @@
  },
  {
   "bank": "toss",
-  "title": "Data Product Manager",
+  "title": "데이터 프로덕트 매니저 (AI)",
   "link": "https://toss.im/career/job-detail?gh_jid=6675539003",
   "posted": null,
   "deadline": null,
@@ -900,7 +892,7 @@
  },
  {
   "bank": "toss",
-  "title": "IT Governance Manager",
+  "title": "IT 거버넌스 매니저",
   "link": "https://toss.im/career/job-detail?gh_jid=8042416003",
   "posted": null,
   "deadline": null,
@@ -909,7 +901,7 @@
  },
  {
   "bank": "toss",
-  "title": "Privacy Operations Specialist",
+  "title": "개인정보보호 운영 스페셜리스트",
   "link": "https://toss.im/career/job-detail?gh_jid=7569779003",
   "posted": null,
   "deadline": null,
@@ -927,7 +919,7 @@
  },
  {
   "bank": "toss",
-  "title": "Purchasing Manager",
+  "title": "IT 구매 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=4696989003",
   "posted": null,
   "deadline": null,
@@ -936,7 +928,7 @@
  },
  {
   "bank": "toss",
-  "title": "Security Audit Manager",
+  "title": "보안 감사 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=5988332003",
   "posted": null,
   "deadline": null,
@@ -945,7 +937,7 @@
  },
  {
   "bank": "toss",
-  "title": "STR Monitoring Specialist",
+  "title": "STR 모니터링 담당자 (일반계약직)",
   "link": "https://toss.im/career/job-detail?gh_jid=5015455003",
   "posted": null,
   "deadline": null,
@@ -954,7 +946,7 @@
  },
  {
   "bank": "toss",
-  "title": "Validation Manager",
+  "title": "리스크 적합성 검증 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=7725883003",
   "posted": null,
   "deadline": null,
@@ -963,7 +955,7 @@
  },
  {
   "bank": "toss",
-  "title": "여신 상품 Manager",
+  "title": "기업여신 심사기획 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=7621499003",
   "posted": null,
   "deadline": null,
@@ -972,196 +964,7 @@
  },
  {
   "bank": "toss",
-  "title": "AIOps Platform Engineer",
-  "link": "https://toss.im/career/job-detail?gh_jid=7702581003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "AML Monitoring Manager",
-  "link": "https://toss.im/career/job-detail?gh_jid=7550111003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "Anti-Fraud Manager",
-  "link": "https://toss.im/career/job-detail?gh_jid=7691793003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "Asset Specialist (2년 이하)",
-  "link": "https://toss.im/career/job-detail?gh_jid=7559116003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
- },
- {
-  "bank": "toss",
-  "title": "Card Operations Specialist",
-  "link": "https://toss.im/career/job-detail?gh_jid=7478795003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
- },
- {
-  "bank": "toss",
-  "title": "Collection Operations Assistant",
-  "link": "https://toss.im/career/job-detail?gh_jid=5469462003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "단기계약직"
- },
- {
-  "bank": "toss",
-  "title": "Communications Manager",
-  "link": "https://toss.im/career/job-detail?gh_jid=7701589003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "Credit Rating Modeler",
-  "link": "https://toss.im/career/job-detail?gh_jid=7690345003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "Customer Success Manager",
-  "link": "https://toss.im/career/job-detail?gh_jid=5851767003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "Customer Success Specialist",
-  "link": "https://toss.im/career/job-detail?gh_jid=7809186003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
- },
- {
-  "bank": "toss",
-  "title": "Data Engineering Specialist",
-  "link": "https://toss.im/career/job-detail?gh_jid=8039958003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
- },
- {
-  "bank": "toss",
-  "title": "Data Governance Manager",
-  "link": "https://toss.im/career/job-detail?gh_jid=7702489003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "Data Manager (Mart)",
-  "link": "https://toss.im/career/job-detail?gh_jid=7566080003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "Data Platform Engineer (Streaming)",
-  "link": "https://toss.im/career/job-detail?gh_jid=6603749003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "Finance Data System Developer",
-  "link": "https://toss.im/career/job-detail?gh_jid=6434513003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "FX Manager (해외송금)",
-  "link": "https://toss.im/career/job-detail?gh_jid=6603597003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "IDC Manager",
-  "link": "https://toss.im/career/job-detail?gh_jid=7821171003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "IT Operations Specialist (Call Infra)(2년 이하)",
-  "link": "https://toss.im/career/job-detail?gh_jid=7736910003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
- },
- {
-  "bank": "toss",
-  "title": "IT Planning Team Leader",
-  "link": "https://toss.im/career/job-detail?gh_jid=7700016003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "KYC Specialist",
-  "link": "https://toss.im/career/job-detail?gh_jid=7972728003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
- },
- {
-  "bank": "toss",
-  "title": "Loan Operations Manager",
-  "link": "https://toss.im/career/job-detail?gh_jid=5267674003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "수신 상품 Manager",
+  "title": "수신상품 기획 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=5586214003",
   "posted": null,
   "deadline": null,
@@ -1170,7 +973,7 @@
  },
  {
   "bank": "toss",
-  "title": "여신 제도 Manager",
+  "title": "여신제도 기획 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=5417612003",
   "posted": null,
   "deadline": null,
@@ -1179,7 +982,205 @@
  },
  {
   "bank": "toss",
-  "title": "ML Backend Engineer",
+  "title": "금융사기대응 담당자 (일반계약직)",
+  "link": "https://toss.im/career/job-detail?gh_jid=6106860003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "자산 담당자 (일반계약직) (2년 이하)",
+  "link": "https://toss.im/career/job-detail?gh_jid=7559116003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "AIOps 플랫폼 엔지니어",
+  "link": "https://toss.im/career/job-detail?gh_jid=7702581003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "금융사기 대응 매니저",
+  "link": "https://toss.im/career/job-detail?gh_jid=7691793003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "비주얼 디자인 어시스턴트 (Brand)",
+  "link": "https://toss.im/career/job-detail?gh_jid=5748739003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "단기계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "카드상품 운영 담당자 (일반계약직)",
+  "link": "https://toss.im/career/job-detail?gh_jid=7478795003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "여신관리 담당자 (단기계약직)",
+  "link": "https://toss.im/career/job-detail?gh_jid=5469462003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "단기계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "커뮤니케이션 담당자",
+  "link": "https://toss.im/career/job-detail?gh_jid=7701589003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "기업 신용평가 모델러",
+  "link": "https://toss.im/career/job-detail?gh_jid=7690345003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "CS 운영 매니저 (CS 운영업무, 도급사 물품/권한/비용 관리)",
+  "link": "https://toss.im/career/job-detail?gh_jid=7809186003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "데이터 엔지니어링 스페셜리스트",
+  "link": "https://toss.im/career/job-detail?gh_jid=8039958003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "데이터 거버넌스 매니저",
+  "link": "https://toss.im/career/job-detail?gh_jid=7702489003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "재무 데이터 시스템 개발자",
+  "link": "https://toss.im/career/job-detail?gh_jid=6434513003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "외환 매니저 (해외송금)",
+  "link": "https://toss.im/career/job-detail?gh_jid=6603597003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "비주얼 디자인 어시스턴트 (Graphic)",
+  "link": "https://toss.im/career/job-detail?gh_jid=7626141003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "단기계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "HRD 담당자 (일반계약직)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8016620003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "IDC 매니저",
+  "link": "https://toss.im/career/job-detail?gh_jid=7821171003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "IT 운영 담당자 (Call Infra) (일반계약직)",
+  "link": "https://toss.im/career/job-detail?gh_jid=7736910003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "IT 기획 팀 리더",
+  "link": "https://toss.im/career/job-detail?gh_jid=7700016003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "고객확인제도 스페셜리스트 (KYC/CDD)",
+  "link": "https://toss.im/career/job-detail?gh_jid=7972728003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "여신운영 담당자",
+  "link": "https://toss.im/career/job-detail?gh_jid=5267674003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "데이터 매니저 (Mart)",
+  "link": "https://toss.im/career/job-detail?gh_jid=7566080003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "ML 백엔드 엔지니어",
   "link": "https://toss.im/career/job-detail?gh_jid=6600650003",
   "posted": null,
   "deadline": null,
@@ -1188,7 +1189,7 @@
  },
  {
   "bank": "toss",
-  "title": "ML Data Assistant",
+  "title": "ML 데이터 어시스턴트",
   "link": "https://toss.im/career/job-detail?gh_jid=6025151003",
   "posted": null,
   "deadline": null,
@@ -1197,7 +1198,7 @@
  },
  {
   "bank": "toss",
-  "title": "Privacy Protection Team Leader",
+  "title": "개인정보보호 팀 리더",
   "link": "https://toss.im/career/job-detail?gh_jid=7992209003",
   "posted": null,
   "deadline": null,
@@ -1215,7 +1216,7 @@
  },
  {
   "bank": "toss",
-  "title": "Savings Operations Specialist",
+  "title": "수신 운영 담당자 (일반계약직)",
   "link": "https://toss.im/career/job-detail?gh_jid=8039736003",
   "posted": null,
   "deadline": null,
@@ -1224,7 +1225,7 @@
  },
  {
   "bank": "toss",
-  "title": "Security Analyst",
+  "title": "보안 분석가",
   "link": "https://toss.im/career/job-detail?gh_jid=7569891003",
   "posted": null,
   "deadline": null,
@@ -1233,7 +1234,7 @@
  },
  {
   "bank": "toss",
-  "title": "Security Audit Team Leader (정보보호 자체감사자)",
+  "title": "보안 자체 감사 팀 리더 (정보보호 자체감사자)",
   "link": "https://toss.im/career/job-detail?gh_jid=7725867003",
   "posted": null,
   "deadline": null,
@@ -1242,7 +1243,7 @@
  },
  {
   "bank": "toss",
-  "title": "Security Policy Team Leader",
+  "title": "보안 정책 팀 리더",
   "link": "https://toss.im/career/job-detail?gh_jid=8014310003",
   "posted": null,
   "deadline": null,
@@ -1251,16 +1252,25 @@
  },
  {
   "bank": "toss",
-  "title": "금융사기대응 Specialist",
-  "link": "https://toss.im/career/job-detail?gh_jid=6106860003",
+  "title": "STR 모니터링 담당자",
+  "link": "https://toss.im/career/job-detail?gh_jid=7550111003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
-  "job_type": "계약직"
+  "job_type": "정규직"
  },
  {
   "bank": "toss",
-  "title": "System Security Team Leader",
+  "title": "데이터 플랫폼 엔지니어 (Streaming)",
+  "link": "https://toss.im/career/job-detail?gh_jid=6603749003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "시스템 보안 팀 리더",
   "link": "https://toss.im/career/job-detail?gh_jid=7687346003",
   "posted": null,
   "deadline": null,
@@ -1269,29 +1279,11 @@
  },
  {
   "bank": "toss",
-  "title": "Talent Development Specialist",
-  "link": "https://toss.im/career/job-detail?gh_jid=8016620003",
+  "title": "고객 경험 매니저 (VOC, SLA, AICC 담당)",
+  "link": "https://toss.im/career/job-detail?gh_jid=5851767003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
-  "job_type": "계약직"
- },
- {
-  "bank": "toss",
-  "title": "Visual Design Assistant (Brand)",
-  "link": "https://toss.im/career/job-detail?gh_jid=5748739003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "단기계약직"
- },
- {
-  "bank": "toss",
-  "title": "Visual Design Assistant (Graphic)",
-  "link": "https://toss.im/career/job-detail?gh_jid=7626141003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "단기계약직"
+  "job_type": "정규직"
  }
 ]
