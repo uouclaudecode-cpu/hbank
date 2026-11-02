@@ -293,6 +293,14 @@
  },
  {
   "bank": "woori",
+  "title": "우리은행 WM포트폴리오 영업지원 전문직(WM그룹) 채용공고",
+  "link": "https://recruit.incruit.com/wooribank/job/2610210004",
+  "posted": "2026-11-02T09:00:00+09:00",
+  "deadline": "2026-11-16T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "woori",
   "title": "우리은행 UI 디자인 (고객경험디자인센터) 전문직 채용공고",
   "link": "https://recruit.incruit.com/wooribank/job/2610290023",
   "posted": "2026-10-30T00:00:00+09:00",
@@ -418,14 +426,6 @@
   "title": "[수도권] KB국민은행 [기업금융 파트타이머] 상시 Pool 모집",
   "link": "https://recruit.incruit.com/kbstar/job/2608050002",
   "posted": "2026-09-23T00:00:00+09:00",
-  "deadline": "2026-12-31T23:59:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
-  "bank": "kb",
-  "title": "[수도권] KB국민은행 PT(영업점 텔러) 긴급채용(안산단원)",
-  "link": "https://recruit.incruit.com/kbstar/job/2608030010",
-  "posted": "2026-09-24T00:00:00+09:00",
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트"
  },
@@ -838,7 +838,7 @@
  },
  {
   "bank": "toss",
-  "title": "CS 운영 매니저 (CS 운영업무, 도급사 물품/권한/비용 관리)",
+  "title": "CS 운영 담당자 (CS 운영업무, 도급사 물품/권한/비용 관리)",
   "link": "https://toss.im/career/job-detail?gh_jid=7809186003",
   "posted": null,
   "deadline": null,
@@ -867,6 +867,15 @@
   "bank": "toss",
   "title": "IDC 매니저",
   "link": "https://toss.im/career/job-detail?gh_jid=7821171003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "IT 자체 감사 매니저",
+  "link": "https://toss.im/career/job-detail?gh_jid=6318435003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
@@ -955,6 +964,15 @@
  },
  {
   "bank": "toss",
+  "title": "UX 리서처",
+  "link": "https://toss.im/career/job-detail?gh_jid=5865632003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
   "title": "개인정보보호 운영 스페셜리스트",
   "link": "https://toss.im/career/job-detail?gh_jid=7569779003",
   "posted": null,
@@ -1000,15 +1018,6 @@
  },
  {
   "bank": "toss",
-  "title": "금융사기대응 담당자 (일반계약직)",
-  "link": "https://toss.im/career/job-detail?gh_jid=6106860003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
- },
- {
-  "bank": "toss",
   "title": "금융소비자보호 매니저",
   "link": "https://toss.im/career/job-detail?gh_jid=7830494003",
   "posted": null,
@@ -1029,6 +1038,15 @@
   "bank": "toss",
   "title": "기업여신 심사기획 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=7621499003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "여신상품 기획 담당자 (개인대출)",
+  "link": "https://toss.im/career/job-detail?gh_jid=4078740003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
@@ -1099,8 +1117,26 @@
  },
  {
   "bank": "toss",
-  "title": "보안 감사 담당자",
+  "title": "보안 자체 감사 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=5988332003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "모의해킹 및 취약점 분석 전문가",
+  "link": "https://toss.im/career/job-detail?gh_jid=5847765003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "오픈소스 보안 전문가",
+  "link": "https://toss.im/career/job-detail?gh_jid=7985037003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
@@ -1285,5 +1321,23 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "단기계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "수신상품 기획 담당자 (기업뱅킹)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8152756003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "카드상품 Manager (기업뱅킹)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8152755003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
  }
 ]
