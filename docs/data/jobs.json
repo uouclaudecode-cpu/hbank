@@ -1,42 +1,6 @@
 [
  {
   "bank": "kakao",
-  "title": "인증 플랫폼 기획 담당자 (채용연계형 인턴)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269180",
-  "posted": "2026-10-15T16:00:00+09:00",
-  "deadline": "2026-11-02T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
-  "title": "금융거래정보제공 업무 담당자 (채용연계형 인턴)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269299",
-  "posted": "2026-10-15T16:00:00+09:00",
-  "deadline": "2026-11-02T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Customer Service"
- },
- {
-  "bank": "kakao",
-  "title": "수신제도(정책) 담당자",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=262378",
-  "posted": "2026-08-05T00:00:00+09:00",
-  "deadline": "2026-11-02T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
-  "title": "데이터 엔지니어 - Data Warehouse",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=260510",
-  "posted": "2026-07-16T00:00:00+09:00",
-  "deadline": "2026-11-02T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Data"
- },
- {
-  "bank": "kakao",
   "title": "AI 엔지니어",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=264119",
   "posted": "2026-08-24T00:00:00+09:00",
@@ -1225,15 +1189,6 @@
  },
  {
   "bank": "toss",
-  "title": "여신관리 담당자 (단기계약직)",
-  "link": "https://toss.im/career/job-detail?gh_jid=5469462003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "단기계약직"
- },
- {
-  "bank": "toss",
   "title": "여신운영 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=5267674003",
   "posted": null,
@@ -1317,6 +1272,24 @@
   "bank": "toss",
   "title": "카드상품 Manager (기업뱅킹)",
   "link": "https://toss.im/career/job-detail?gh_jid=8152755003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "프로덕트 디자이너 (Product Designer)",
+  "link": "https://toss.im/career/job-detail?gh_jid=4346520003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "Visual Designer (Brand Comms Team)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8006738003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
