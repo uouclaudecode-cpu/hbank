@@ -829,15 +829,6 @@
  },
  {
   "bank": "toss",
-  "title": "IT 자체 감사 매니저",
-  "link": "https://toss.im/career/job-detail?gh_jid=6318435003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
   "title": "IT 거버넌스 매니저",
   "link": "https://toss.im/career/job-detail?gh_jid=8042416003",
   "posted": null,
@@ -871,6 +862,15 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "IT 자체 감사 매니저",
+  "link": "https://toss.im/career/job-detail?gh_jid=6318435003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
  },
  {
   "bank": "toss",
@@ -1000,15 +1000,6 @@
  },
  {
   "bank": "toss",
-  "title": "여신상품 기획 담당자 (개인대출)",
-  "link": "https://toss.im/career/job-detail?gh_jid=4078740003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
   "title": "데이터 거버넌스 매니저",
   "link": "https://toss.im/career/job-detail?gh_jid=7702489003",
   "posted": null,
@@ -1072,15 +1063,6 @@
  },
  {
   "bank": "toss",
-  "title": "보안 자체 감사 담당자",
-  "link": "https://toss.im/career/job-detail?gh_jid=5988332003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
   "title": "모의해킹 및 취약점 분석 전문가",
   "link": "https://toss.im/career/job-detail?gh_jid=5847765003",
   "posted": null,
@@ -1090,8 +1072,8 @@
  },
  {
   "bank": "toss",
-  "title": "오픈소스 보안 전문가",
-  "link": "https://toss.im/career/job-detail?gh_jid=7985037003",
+  "title": "보안 분석가",
+  "link": "https://toss.im/career/job-detail?gh_jid=7569891003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
@@ -1099,8 +1081,8 @@
  },
  {
   "bank": "toss",
-  "title": "보안 분석가",
-  "link": "https://toss.im/career/job-detail?gh_jid=7569891003",
+  "title": "보안 자체 감사 담당자",
+  "link": "https://toss.im/career/job-detail?gh_jid=5988332003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
@@ -1144,15 +1126,6 @@
  },
  {
   "bank": "toss",
-  "title": "수신운영 담당자 (일반계약직)",
-  "link": "https://toss.im/career/job-detail?gh_jid=8039736003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
- },
- {
-  "bank": "toss",
   "title": "수신상품 기획 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=5586214003",
   "posted": null,
@@ -1168,6 +1141,15 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "수신운영 담당자 (일반계약직)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8039736003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
  },
  {
   "bank": "toss",
@@ -1189,6 +1171,15 @@
  },
  {
   "bank": "toss",
+  "title": "여신상품 기획 담당자 (개인대출)",
+  "link": "https://toss.im/career/job-detail?gh_jid=4078740003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
   "title": "여신운영 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=5267674003",
   "posted": null,
@@ -1200,6 +1191,15 @@
   "bank": "toss",
   "title": "여신제도 기획 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=5417612003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "오픈소스 보안 전문가",
+  "link": "https://toss.im/career/job-detail?gh_jid=7985037003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
