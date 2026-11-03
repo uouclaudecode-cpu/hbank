@@ -175,7 +175,7 @@
  },
  {
   "bank": "kyongnam",
-  "title": "BNK경남은행 금융소비자보호부 전문계약직 채용",
+  "title": "BNK경남은행 금융소비자보호부 CS담당자 채용",
   "link": "https://knbank.recruiter.co.kr/career/jobs/133178",
   "posted": "2026-11-02T00:00:00+09:00",
   "deadline": "2026-11-11T23:59:00+09:00",
@@ -289,6 +289,17 @@
   "deadline": "2026-11-17T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Service & Biz"
+ },
+ {
+  "bank": "ibk",
+  "title": "2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용공고",
+  "link": "http://ibk.incruit.com",
+  "posted": "2026-11-03T23:59:00+09:00",
+  "deadline": "2026-11-18T23:59:00+09:00",
+  "via": "잡알리오",
+  "career": "신입",
+  "job_type": "무기계약직",
+  "location": "서울,부산,대구,인천,대전,울산,세종,경기,강원,충북,충남,전북,전남광주,경북,경남"
  },
  {
   "bank": "kakao",
@@ -1286,6 +1297,15 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "Communications Assistant",
+  "link": "https://toss.im/career/job-detail?gh_jid=5994085003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "단기계약직"
  },
  {
   "bank": "toss",
