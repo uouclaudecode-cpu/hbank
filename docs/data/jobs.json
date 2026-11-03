@@ -1,24 +1,6 @@
 [
  {
   "bank": "kakao",
-  "title": "AI 엔지니어",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=264119",
-  "posted": "2026-08-24T00:00:00+09:00",
-  "deadline": "2026-11-03T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "AI"
- },
- {
-  "bank": "kakao",
-  "title": "서비스 기획자 - 신사업",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=266112",
-  "posted": "2026-09-09T00:00:00+09:00",
-  "deadline": "2026-11-03T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
   "title": "방카슈랑스 사업 기획 담당자",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=253879",
   "posted": "2026-05-13T00:00:00+09:00",
@@ -367,16 +349,6 @@
   "title": "[iM뱅크] AI DevOps 채용",
   "link": "https://im.recruiter.co.kr/career/jobs/124907",
   "posted": "2026-08-12T09:00:00+09:00",
-  "deadline": "2026-12-31T18:00:00+09:00",
-  "via": "공식 채용사이트",
-  "career": "경력",
-  "job_type": "경력"
- },
- {
-  "bank": "im",
-  "title": "[iM뱅크] 보험계리사 채용",
-  "link": "https://im.recruiter.co.kr/career/jobs/125063",
-  "posted": "2026-08-13T00:00:00+09:00",
   "deadline": "2026-12-31T18:00:00+09:00",
   "via": "공식 채용사이트",
   "career": "경력",
@@ -892,15 +864,6 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "계약직"
- },
- {
-  "bank": "toss",
-  "title": "IT 자체 감사 매니저",
-  "link": "https://toss.im/career/job-detail?gh_jid=6318435003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
  },
  {
   "bank": "toss",
