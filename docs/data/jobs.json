@@ -320,6 +320,15 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "kakao",
+  "title": "쿠버네티스(Kubernetes) 엔지니어",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=268717",
+  "posted": "2026-10-07T00:00:00+09:00",
+  "deadline": "2026-11-25T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Engineering"
+ },
+ {
   "bank": "kb",
   "title": "(김포통진종합금융센터) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
   "link": "https://recruit.incruit.com/kbstar/job/2610290017",
@@ -1246,21 +1255,21 @@
  },
  {
   "bank": "toss",
-  "title": "컴플라이언스 매니저",
-  "link": "https://toss.im/career/job-detail?gh_jid=4167754003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
   "title": "ML 데이터 어시스턴트",
   "link": "https://toss.im/career/job-detail?gh_jid=6025151003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "단기계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "프로덕트 디자이너",
+  "link": "https://toss.im/career/job-detail?gh_jid=4346520003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
  },
  {
   "bank": "toss",
@@ -1284,15 +1293,6 @@
   "bank": "toss",
   "title": "카드상품 Manager (기업뱅킹)",
   "link": "https://toss.im/career/job-detail?gh_jid=8152755003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "프로덕트 디자이너 (Product Designer)",
-  "link": "https://toss.im/career/job-detail?gh_jid=4346520003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
