@@ -1,24 +1,6 @@
 [
  {
   "bank": "kakao",
-  "title": "방카슈랑스 사업 기획 담당자",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=253879",
-  "posted": "2026-05-13T00:00:00+09:00",
-  "deadline": "2026-11-05T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
-  "title": "퇴직연금 도메인 개발자",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=244006",
-  "posted": "2026-02-09T00:00:00+09:00",
-  "deadline": "2026-11-05T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Server"
- },
- {
-  "bank": "kakao",
   "title": "뱅킹 아키텍트",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=238703",
   "posted": "2026-01-01T00:00:00+09:00",
@@ -313,6 +295,15 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "kakao",
+  "title": "인증사업 운영 지원 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=271553",
+  "posted": "2026-11-05T00:00:00+09:00",
+  "deadline": "2026-11-19T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
   "bank": "kb",
   "title": "[강북] KB국민은행  [기동인력반 파트타이머] 상시 Pool 모집",
   "link": "https://recruit.incruit.com/kbstar/job/2609230001",
@@ -337,6 +328,15 @@
   "deadline": "2026-11-25T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Engineering"
+ },
+ {
+  "bank": "kakao",
+  "title": "서비스 기획자 - 신사업",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=266112",
+  "posted": "2026-09-09T00:00:00+09:00",
+  "deadline": "2026-11-26T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
  },
  {
   "bank": "kb",
@@ -860,15 +860,6 @@
  },
  {
   "bank": "toss",
-  "title": "IT 거버넌스 매니저",
-  "link": "https://toss.im/career/job-detail?gh_jid=8042416003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
   "title": "IT 구매 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=4696989003",
   "posted": null,
@@ -893,6 +884,15 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "IT거버넌스 매니저",
+  "link": "https://toss.im/career/job-detail?gh_jid=8042416003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
  },
  {
   "bank": "toss",
