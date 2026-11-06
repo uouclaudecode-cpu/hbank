@@ -312,6 +312,106 @@
   "via": "공식 채용사이트"
  },
  {
+  "bank": "kbank",
+  "title": "내부감사 감사역(전문경력직)",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/133662",
+  "posted": "2026-11-06T00:00:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Management"
+ },
+ {
+  "bank": "kbank",
+  "title": "법인여신 정책 / 심사 기획 및 운영 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/133660",
+  "posted": "2026-11-06T00:00:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "BizㆍMarketing"
+ },
+ {
+  "bank": "kbank",
+  "title": "퇴직연금 서비스 기획 및 운영 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/133654",
+  "posted": "2026-11-06T00:00:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "BizㆍMarketing"
+ },
+ {
+  "bank": "kbank",
+  "title": "체크카드 상품 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/133640",
+  "posted": "2026-11-06T00:00:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "BizㆍMarketing"
+ },
+ {
+  "bank": "kbank",
+  "title": "채널계 법인여신 사전 업무 개발자(정규직)",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/133631",
+  "posted": "2026-11-06T00:00:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Tech"
+ },
+ {
+  "bank": "kbank",
+  "title": "채널계 법인여신 사전 업무 개발자(전문경력직)",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/133635",
+  "posted": "2026-11-06T00:00:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Tech"
+ },
+ {
+  "bank": "kbank",
+  "title": "BaaS 플랫폼/계정계 수신 개발 및 운영 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/133638",
+  "posted": "2026-11-06T00:00:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Tech"
+ },
+ {
+  "bank": "kbank",
+  "title": "엔드포인트 보안 운영 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/133683",
+  "posted": "2026-11-06T00:00:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Tech"
+ },
+ {
+  "bank": "kbank",
+  "title": "전기통신 금융사기 운영 및 모니터링 업무 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/133651",
+  "posted": "2026-11-06T00:00:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "Customer"
+ },
+ {
+  "bank": "kbank",
+  "title": "금융 후선업무 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/133647",
+  "posted": "2026-11-06T00:00:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "Customer"
+ },
+ {
   "bank": "kakao",
   "title": "서비스 기획자 - 대화형 AI 서비스",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261154",
@@ -391,6 +491,14 @@
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "상시채용"
+ },
+ {
+  "bank": "kb",
+  "title": "(서초2동) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2611050017",
+  "posted": "2026-11-05T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
  },
  {
   "bank": "kb",
