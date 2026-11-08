@@ -1,21 +1,5 @@
 [
  {
-  "bank": "woori",
-  "title": "우리은행 AI서비스기획_AI사업개발  (AI데이터사업부) 전문직 채용공고",
-  "link": "https://recruit.incruit.com/wooribank/job/2610260015",
-  "posted": "2026-10-26T00:00:00+09:00",
-  "deadline": "2026-11-09T00:00:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
-  "bank": "woori",
-  "title": "우리은행 데이터 사이언티스트 (AI데이터사업부_AI고객컨택) 전문직 채용공고",
-  "link": "https://recruit.incruit.com/wooribank/job/2610230012",
-  "posted": "2026-10-26T00:00:00+09:00",
-  "deadline": "2026-11-09T00:00:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
   "bank": "kakao",
   "title": "세무 업무 담당자 (계약직)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269639",
@@ -385,6 +369,17 @@
   "via": "공식 채용사이트",
   "career": "",
   "job_type": "Customer"
+ },
+ {
+  "bank": "kdb",
+  "title": "한국산업은행 전문직원(기록물관리사(대체채용)) 채용공고",
+  "link": "https://recruit.kdb.co.kr",
+  "posted": "2026-11-09T23:59:00+09:00",
+  "deadline": "2026-11-23T23:59:00+09:00",
+  "via": "잡알리오",
+  "career": "신입+경력",
+  "job_type": "비정규직",
+  "location": "서울"
  },
  {
   "bank": "kakao",
