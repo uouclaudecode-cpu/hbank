@@ -1,23 +1,6 @@
 [
  {
   "bank": "kakao",
-  "title": "세무 업무 담당자 (계약직)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269639",
-  "posted": "2026-10-19T00:00:00+09:00",
-  "deadline": "2026-11-09T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Finance"
- },
- {
-  "bank": "woori",
-  "title": "우리은행 방카슈랑스 영업지원 (WM상품부) 전문직 채용공고",
-  "link": "https://recruit.incruit.com/wooribank/job/2609280011",
-  "posted": "2026-09-28T00:00:00+09:00",
-  "deadline": "2026-11-09T23:59:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
-  "bank": "kakao",
   "title": "인재영입 어시스턴트 (체험형 인턴)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270312",
   "posted": "2026-10-26T00:00:00+09:00",
@@ -377,6 +360,15 @@
   "via": "공식 채용사이트",
   "career": "",
   "job_type": "Customer"
+ },
+ {
+  "bank": "kakao",
+  "title": "AI 운영 어시스턴트 (체험형 인턴)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=271859",
+  "posted": "2026-11-09T00:00:00+09:00",
+  "deadline": "2026-11-23T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
  },
  {
   "bank": "kdb",
