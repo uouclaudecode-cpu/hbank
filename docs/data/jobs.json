@@ -225,6 +225,16 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "shinhan",
+  "title": "[신한은행] (26-11) 영업점 창구업무 업무지원계약인력 채용",
+  "link": "https://shinhan.recruiter.co.kr/career/jobs/133942",
+  "posted": "2026-11-10T15:00:00+09:00",
+  "deadline": "2026-11-18T22:00:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "수시"
+ },
+ {
   "bank": "ibk",
   "title": "2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용공고",
   "link": "http://ibk.incruit.com",
@@ -470,6 +480,22 @@
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "상시채용"
+ },
+ {
+  "bank": "kb",
+  "title": "(석촌동) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2611100016",
+  "posted": "2026-11-10T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "(장기동) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2611100015",
+  "posted": "2026-11-10T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
  },
  {
   "bank": "kb",
@@ -1348,6 +1374,15 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "총무 담당자 (일반계약직)",
+  "link": "https://toss.im/career/job-detail?gh_jid=6016364003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
  },
  {
   "bank": "toss",
