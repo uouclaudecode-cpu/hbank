@@ -1,14 +1,5 @@
 [
  {
-  "bank": "kakao",
-  "title": "펀드 제도 기획 및 운영 업무 담당자",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270466",
-  "posted": "2026-10-27T00:00:00+09:00",
-  "deadline": "2026-11-17T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
   "bank": "kb",
   "title": "2026년 하반기 퇴직직원 재채용(여신정책부 업무상담 HelpDesk) 공고",
   "link": "https://recruit.incruit.com/kbstar/job/2611100024",
@@ -296,21 +287,21 @@
  },
  {
   "bank": "kakao",
-  "title": "AI 서비스 기획 어시스턴트 (체험형 인턴)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272246",
-  "posted": "2026-11-12T00:00:00+09:00",
-  "deadline": "2026-11-25T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
   "title": "DevOps 엔지니어 (채용연계형 인턴)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=271437",
   "posted": "2026-11-09T10:30:00+09:00",
   "deadline": "2026-11-25T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Engineering"
+ },
+ {
+  "bank": "kakao",
+  "title": "AI 서비스 기획 어시스턴트 (체험형 인턴)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272246",
+  "posted": "2026-11-12T00:00:00+09:00",
+  "deadline": "2026-11-25T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
  },
  {
   "bank": "kakao",
@@ -423,6 +414,15 @@
  },
  {
   "bank": "kakao",
+  "title": "전자금융/수신 업무 운영 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261032",
+  "posted": "2026-07-23T00:00:00+09:00",
+  "deadline": "2026-12-03T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
   "title": "방카슈랑스 사업 기획 담당자",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=253879",
   "posted": "2026-05-13T00:00:00+09:00",
@@ -456,6 +456,24 @@
   "deadline": "2026-12-04T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
+  "title": "법인 여신 심사 기획 및 정책 담당자",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272750",
+  "posted": "2026-11-17T00:00:00+09:00",
+  "deadline": "2026-12-07T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
+  "title": "계정계 QA 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=267596",
+  "posted": "2026-09-23T00:00:00+09:00",
+  "deadline": "2026-12-07T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Core Banking"
  },
  {
   "bank": "toss",
@@ -547,14 +565,6 @@
   "title": "[개포중앙(점)] KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
   "link": "https://recruit.incruit.com/kbstar/job/2611090006",
   "posted": "2026-11-09T00:00:00+09:00",
-  "deadline": "2026-12-31T23:59:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
-  "bank": "kb",
-  "title": "(서초2동) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
-  "link": "https://recruit.incruit.com/kbstar/job/2611050017",
-  "posted": "2026-11-05T00:00:00+09:00",
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트"
  },
