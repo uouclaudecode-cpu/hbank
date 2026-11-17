@@ -97,14 +97,6 @@
   "via": "공식 채용사이트"
  },
  {
-  "bank": "kb",
-  "title": "[강북] KB국민은행  [기동인력반 파트타이머] 상시 Pool 모집",
-  "link": "https://recruit.incruit.com/kbstar/job/2609230001",
-  "posted": "2026-09-23T00:00:00+09:00",
-  "deadline": "2026-11-21T23:59:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
   "bank": "busan",
   "title": "부산은행 전문계약직(경력직) 채용[투자전략, 퇴직연금 상품]",
   "link": "https://busanbank.recruiter.co.kr/career/jobs/133803",
@@ -330,6 +322,25 @@
   "job_type": "Engineering"
  },
  {
+  "bank": "kyongnam",
+  "title": "BNK경남은행 자금부 계약직 채용",
+  "link": "https://knbank.recruiter.co.kr/career/jobs/134697",
+  "posted": "2026-11-17T00:00:00+09:00",
+  "deadline": "2026-11-25T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "수시"
+ },
+ {
+  "bank": "kakao",
+  "title": "세무 업무 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269639",
+  "posted": "2026-10-19T00:00:00+09:00",
+  "deadline": "2026-11-26T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Finance"
+ },
+ {
   "bank": "kakao",
   "title": "서비스 기획자 - 신사업",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=266112",
@@ -388,15 +399,6 @@
   "title": "서비스 기획자 - 여신",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261109",
   "posted": "2026-07-24T00:00:00+09:00",
-  "deadline": "2026-12-01T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
-  "title": "법인 여신 제도 기획 및 운영 담당자",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=260515",
-  "posted": "2026-07-16T00:00:00+09:00",
   "deadline": "2026-12-01T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Service & Biz"
@@ -479,6 +481,30 @@
   "link": "https://recruit.incruit.com/kbstar/job/2611130017",
   "posted": "2026-11-13T00:00:00+09:00",
   "deadline": "2026-12-12T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "[강북] KB국민은행  [기동인력반 파트타이머] 상시 Pool 모집",
+  "link": "https://recruit.incruit.com/kbstar/job/2611170003",
+  "posted": "2026-11-17T00:00:00+09:00",
+  "deadline": "2026-12-16T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "(공고지역 본문 참고) KB국민은행 스마트어드바이저 인재 Pool",
+  "link": "https://recruit.incruit.com/kbstar/job/2611170002",
+  "posted": "2026-11-17T00:00:00+09:00",
+  "deadline": "2026-12-16T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "KB국민은행 영업점 창구 텔러 파트타이머 인재 Pool",
+  "link": "https://recruit.incruit.com/kbstar/job/2611170001",
+  "posted": "2026-11-17T00:00:00+09:00",
+  "deadline": "2026-12-16T23:59:00+09:00",
   "via": "공식 채용사이트"
  },
  {
@@ -1450,6 +1476,15 @@
  },
  {
   "bank": "toss",
+  "title": "비주얼 디자이너 (Brand)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8006738003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
   "title": "Communications Assistant",
   "link": "https://toss.im/career/job-detail?gh_jid=5994085003",
   "posted": null,
@@ -1470,15 +1505,6 @@
   "bank": "toss",
   "title": "카드상품 Manager (기업뱅킹)",
   "link": "https://toss.im/career/job-detail?gh_jid=8152755003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "Visual Designer (Brand Comms Team)",
-  "link": "https://toss.im/career/job-detail?gh_jid=8006738003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
