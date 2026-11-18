@@ -378,6 +378,15 @@
  },
  {
   "bank": "kakao",
+  "title": "금융업무 기획 및 운영 담당자 (채용연계형 인턴)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272465",
+  "posted": "2026-11-18T11:00:00+09:00",
+  "deadline": "2026-12-01T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Customer Service"
+ },
+ {
+  "bank": "kakao",
   "title": "신사업 서비스 기획 및 운영 담당자 (계약직)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272060",
   "posted": "2026-11-10T00:00:00+09:00",
@@ -1306,15 +1315,6 @@
  },
  {
   "bank": "toss",
-  "title": "비주얼 디자인 어시스턴트 (Brand)",
-  "link": "https://toss.im/career/job-detail?gh_jid=5748739003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "단기계약직"
- },
- {
-  "bank": "toss",
   "title": "비주얼 디자인 어시스턴트 (Graphic)",
   "link": "https://toss.im/career/job-detail?gh_jid=7626141003",
   "posted": null,
@@ -1483,6 +1483,15 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "자산관리 어시스턴트",
+  "link": "https://toss.im/career/job-detail?gh_jid=7564232003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "단기계약직"
  },
  {
   "bank": "toss",
