@@ -1,58 +1,5 @@
 [
  {
-  "bank": "kb",
-  "title": "2026년 하반기 퇴직직원 재채용(여신정책부 업무상담 HelpDesk) 공고",
-  "link": "https://recruit.incruit.com/kbstar/job/2611100024",
-  "posted": "2026-11-11T09:00:00+09:00",
-  "deadline": "2026-11-18T17:00:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
-  "bank": "kb",
-  "title": "[금융사기예방Unit] 파트타이머 채용 공고 (전기통신금융사기 모니터링_주말)",
-  "link": "https://recruit.incruit.com/kbstar/job/2611100023",
-  "posted": "2026-11-11T11:00:00+09:00",
-  "deadline": "2026-11-18T18:00:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
-  "bank": "kb",
-  "title": "[금융사기예방Unit] 파트타이머 채용 공고 (전기통신금융사기 모니터링_주중 야간)",
-  "link": "https://recruit.incruit.com/kbstar/job/2611100022",
-  "posted": "2026-11-11T11:00:00+09:00",
-  "deadline": "2026-11-18T18:00:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
-  "bank": "shinhan",
-  "title": "[신한은행] (26-11) 영업점 창구업무 업무지원계약인력 채용",
-  "link": "https://shinhan.recruiter.co.kr/career/jobs/133942",
-  "posted": "2026-11-10T15:00:00+09:00",
-  "deadline": "2026-11-18T22:00:00+09:00",
-  "via": "공식 채용사이트",
-  "career": "경력",
-  "job_type": "수시"
- },
- {
-  "bank": "ibk",
-  "title": "2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용공고",
-  "link": "http://ibk.incruit.com",
-  "posted": "2026-11-03T23:59:00+09:00",
-  "deadline": "2026-11-18T23:59:00+09:00",
-  "via": "잡알리오",
-  "career": "신입",
-  "job_type": "무기계약직",
-  "location": "서울,부산,대구,인천,대전,울산,세종,경기,강원,충북,충남,전북,전남광주,경북,경남"
- },
- {
-  "bank": "kb",
-  "title": "2026년 하반기 퇴직직원 재채용 [개인정보보호 실태 점검]",
-  "link": "https://recruit.incruit.com/kbstar/job/2611060005",
-  "posted": "2026-11-16T00:00:00+09:00",
-  "deadline": "2026-11-18T23:59:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
   "bank": "kakao",
   "title": "대출비교서비스 운영 어시스턴트 (체험형 인턴)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272331",
@@ -96,6 +43,22 @@
   "via": "공식 채용사이트",
   "career": "경력",
   "job_type": "금융 · 보험"
+ },
+ {
+  "bank": "kb",
+  "title": "[금융사기예방Unit] 파트타이머 채용 공고 (전기통신금융사기 모니터링_주말)",
+  "link": "https://recruit.incruit.com/kbstar/job/2611100023",
+  "posted": "2026-11-11T11:00:00+09:00",
+  "deadline": "2026-11-22T18:00:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "[금융사기예방Unit] 파트타이머 채용 공고 (전기통신금융사기 모니터링_주중 야간)",
+  "link": "https://recruit.incruit.com/kbstar/job/2611100022",
+  "posted": "2026-11-11T11:00:00+09:00",
+  "deadline": "2026-11-22T18:00:00+09:00",
+  "via": "공식 채용사이트"
  },
  {
   "bank": "busan",
@@ -286,6 +249,14 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "kb",
+  "title": "2026년 하반기 퇴직직원 재채용(여신정책부 업무상담 HelpDesk) 공고",
+  "link": "https://recruit.incruit.com/kbstar/job/2611100024",
+  "posted": "2026-11-11T09:00:00+09:00",
+  "deadline": "2026-11-25T17:00:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
   "bank": "kakao",
   "title": "DevOps 엔지니어 (채용연계형 인턴)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=271437",
@@ -358,6 +329,15 @@
   "deadline": "2026-11-29T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "정규직"
+ },
+ {
+  "bank": "kakao",
+  "title": "여신관리 운영 업무 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272884",
+  "posted": "2026-11-18T00:00:00+09:00",
+  "deadline": "2026-11-30T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
  },
  {
   "bank": "kakao",
