@@ -1,32 +1,5 @@
 [
  {
-  "bank": "kakao",
-  "title": "대출비교서비스 운영 어시스턴트 (체험형 인턴)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272331",
-  "posted": "2026-11-12T00:00:00+09:00",
-  "deadline": "2026-11-19T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
-  "title": "인증사업 운영 지원 담당자 (계약직)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=271553",
-  "posted": "2026-11-05T00:00:00+09:00",
-  "deadline": "2026-11-19T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
-  "title": "서비스 기획자 - 퇴직연금",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270952",
-  "posted": "2026-10-30T00:00:00+09:00",
-  "deadline": "2026-11-19T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
   "bank": "woori",
   "title": "우리은행 브랜드전략부 전문직(SNS마케팅) 채용 공고",
   "link": "https://recruit.incruit.com/wooribank/job/2611110013",
@@ -312,10 +285,30 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "shinhan",
+  "title": "[신한은행] (26-112) 영업점 창구업무 업무지원계약인력 채용",
+  "link": "https://shinhan.recruiter.co.kr/career/jobs/134927",
+  "posted": "2026-11-19T18:00:00+09:00",
+  "deadline": "2026-11-29T23:00:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "수시"
+ },
+ {
   "bank": "kyongnam",
   "title": "BNK경남은행 창신대학영업소 사무원 채용",
   "link": "https://knbank.recruiter.co.kr/career/jobs/134398",
   "posted": "2026-11-13T00:00:00+09:00",
+  "deadline": "2026-11-29T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "수시"
+ },
+ {
+  "bank": "kyongnam",
+  "title": "BNK경남은행 인터넷,모바일뱅킹 개발인력 신규채용",
+  "link": "https://knbank.recruiter.co.kr/career/jobs/135048",
+  "posted": "2026-11-19T00:00:00+09:00",
   "deadline": "2026-11-29T23:59:00+09:00",
   "via": "공식 채용사이트",
   "career": "경력",
@@ -448,6 +441,24 @@
  },
  {
   "bank": "kakao",
+  "title": "개인사업자 대출 상품 운영 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270229",
+  "posted": "2026-10-23T00:00:00+09:00",
+  "deadline": "2026-12-04T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
+  "title": "외환 사후관리 업무 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=266361",
+  "posted": "2026-09-11T00:00:00+09:00",
+  "deadline": "2026-12-04T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Customer Service"
+ },
+ {
+  "bank": "kakao",
   "title": "법인 여신 심사 기획 및 정책 담당자",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272750",
   "posted": "2026-11-17T00:00:00+09:00",
@@ -463,6 +474,15 @@
   "deadline": "2026-12-07T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Core Banking"
+ },
+ {
+  "bank": "kakao",
+  "title": "여신 전자등기 운영 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=265751",
+  "posted": "2026-09-07T00:00:00+09:00",
+  "deadline": "2026-12-07T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
  },
  {
   "bank": "toss",
