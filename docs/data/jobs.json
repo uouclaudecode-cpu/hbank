@@ -515,16 +515,6 @@
   "via": "공식 채용사이트"
  },
  {
-  "bank": "im",
-  "title": "[iM뱅크] AI DevOps 채용",
-  "link": "https://im.recruiter.co.kr/career/jobs/124907",
-  "posted": "2026-08-12T09:00:00+09:00",
-  "deadline": "2026-12-31T18:00:00+09:00",
-  "via": "공식 채용사이트",
-  "career": "경력",
-  "job_type": "경력"
- },
- {
   "bank": "kakao",
   "title": "카카오뱅크 인재풀 등록",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=203574",
@@ -898,16 +888,6 @@
   "via": "공식 채용사이트",
   "career": "경력",
   "job_type": "금융 · 보험"
- },
- {
-  "bank": "im",
-  "title": "[iM뱅크] 안드로이드 개발자 채용",
-  "link": "https://im.recruiter.co.kr/career/jobs/132356",
-  "posted": "2026-10-26T00:00:00+09:00",
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "career": "신입",
-  "job_type": "경력"
  },
  {
   "bank": "im",
@@ -1490,6 +1470,15 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "단기계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "Communications Specialist",
+  "link": "https://toss.im/career/job-detail?gh_jid=7747947003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
  },
  {
   "bank": "toss",
