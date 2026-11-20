@@ -1,13 +1,5 @@
 [
  {
-  "bank": "woori",
-  "title": "우리은행 브랜드전략부 전문직(SNS마케팅) 채용 공고",
-  "link": "https://recruit.incruit.com/wooribank/job/2611110013",
-  "posted": "2026-11-11T00:00:00+09:00",
-  "deadline": "2026-11-20T23:59:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
   "bank": "busan",
   "title": "부산은행 전문계약직(경력직) 채용[투자전략, 퇴직연금 상품]",
   "link": "https://busanbank.recruiter.co.kr/career/jobs/133803",
@@ -1098,6 +1090,15 @@
  },
  {
   "bank": "toss",
+  "title": "Product Operations Manager",
+  "link": "https://toss.im/career/job-detail?gh_jid=7972062003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
   "title": "Recruiting Partner Team Leader",
   "link": "https://toss.im/career/job-detail?gh_jid=7985003003",
   "posted": null,
@@ -1449,15 +1450,6 @@
  },
  {
   "bank": "toss",
-  "title": "Product Operations Manager",
-  "link": "https://toss.im/career/job-detail?gh_jid=7972062003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
   "title": "ML 데이터 어시스턴트",
   "link": "https://toss.im/career/job-detail?gh_jid=6025151003",
   "posted": null,
@@ -1505,6 +1497,15 @@
   "bank": "toss",
   "title": "Communications Specialist",
   "link": "https://toss.im/career/job-detail?gh_jid=7747947003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "FX Specialist (해외송금)",
+  "link": "https://toss.im/career/job-detail?gh_jid=7484077003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
