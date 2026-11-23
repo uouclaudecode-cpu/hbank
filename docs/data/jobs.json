@@ -1,35 +1,6 @@
 [
  {
   "bank": "kakao",
-  "title": "AI 운영 어시스턴트 (체험형 인턴)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=271859",
-  "posted": "2026-11-09T00:00:00+09:00",
-  "deadline": "2026-11-23T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
-  "bank": "kakao",
-  "title": "전기통신금융사기 업무 지원 담당자 (계약직)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=263333",
-  "posted": "2026-08-14T00:00:00+09:00",
-  "deadline": "2026-11-23T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Compliance"
- },
- {
-  "bank": "kdb",
-  "title": "한국산업은행 전문직원(기록연구사(대체채용)) 채용공고",
-  "link": "https://recruit.kdb.co.kr",
-  "posted": "2026-11-09T23:59:00+09:00",
-  "deadline": "2026-11-23T23:59:00+09:00",
-  "via": "잡알리오",
-  "career": "신입+경력",
-  "job_type": "비정규직",
-  "location": "서울"
- },
- {
-  "bank": "kakao",
   "title": "서비스 기획자 - 대화형 AI 서비스",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261154",
   "posted": "2026-07-24T00:00:00+09:00",
@@ -81,6 +52,16 @@
   "via": "공식 채용사이트",
   "career": "",
   "job_type": "수시"
+ },
+ {
+  "bank": "busan",
+  "title": "(접수기간 연장)부산은행 신용협동조합 및 노동조합 사무직원 채용 공고",
+  "link": "https://busanbank.recruiter.co.kr/career/jobs/134545",
+  "posted": "2026-11-16T14:00:00+09:00",
+  "deadline": "2026-11-26T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "경영기획 · 지원"
  },
  {
   "bank": "kakao",
@@ -362,6 +343,15 @@
   "posted": "2026-11-13T00:00:00+09:00",
   "deadline": "2026-12-12T23:59:00+09:00",
   "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kakao",
+  "title": "수신업무 도메인 개발자",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=243233",
+  "posted": "2026-02-05T10:00:00+09:00",
+  "deadline": "2026-12-15T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Core Banking"
  },
  {
   "bank": "kb",
@@ -761,7 +751,7 @@
   "posted": "2026-10-26T00:00:00+09:00",
   "deadline": null,
   "via": "공식 채용사이트",
-  "career": "신입",
+  "career": "경력",
   "job_type": "경력"
  },
  {
@@ -1349,6 +1339,15 @@
   "bank": "toss",
   "title": "카드상품 Manager (기업뱅킹)",
   "link": "https://toss.im/career/job-detail?gh_jid=8152755003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "시장운용팀 리더 (Markets & Investment Team Leader)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8213831003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",
