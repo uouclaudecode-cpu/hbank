@@ -1,13 +1,5 @@
 [
  {
-  "bank": "kb",
-  "title": "2026년 하반기 퇴직직원 재채용(여신정책부 업무상담 HelpDesk) 공고",
-  "link": "https://recruit.incruit.com/kbstar/job/2611100024",
-  "posted": "2026-11-11T09:00:00+09:00",
-  "deadline": "2026-11-25T17:00:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
   "bank": "kakao",
   "title": "DevOps 엔지니어 (채용연계형 인턴)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=271437",
@@ -193,6 +185,16 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "im",
+  "title": "[iM뱅크] 2027년 상반기 iM뱅크 체험형 장기인턴 모집",
+  "link": "https://im.recruiter.co.kr/career/jobs/135568",
+  "posted": "2026-11-25T00:00:00+09:00",
+  "deadline": "2026-12-02T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "인턴"
+ },
+ {
   "bank": "kakao",
   "title": "수신제도(정책) 담당자",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=262378",
@@ -290,6 +292,16 @@
   "deadline": "2026-12-04T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kyongnam",
+  "title": "BNK경남은행 금융소비자보호부 CS강사 채용",
+  "link": "https://knbank.recruiter.co.kr/career/jobs/135593",
+  "posted": "2026-11-25T00:00:00+09:00",
+  "deadline": "2026-12-06T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "수시"
  },
  {
   "bank": "kakao",
@@ -403,6 +415,22 @@
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "상시채용"
+ },
+ {
+  "bank": "kb",
+  "title": "[강동구청(점)] KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2611250021",
+  "posted": "2026-11-25T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
+  "title": "(잠실) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
+  "link": "https://recruit.incruit.com/kbstar/job/2611250020",
+  "posted": "2026-11-25T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
  },
  {
   "bank": "kb",
@@ -753,16 +781,6 @@
   "via": "공식 채용사이트",
   "career": "경력",
   "job_type": "금융 · 보험"
- },
- {
-  "bank": "im",
-  "title": "[iM뱅크] AI DevOps 채용",
-  "link": "https://im.recruiter.co.kr/career/jobs/132367",
-  "posted": "2026-10-26T00:00:00+09:00",
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "career": "경력",
-  "job_type": "경력"
  },
  {
   "bank": "kyongnam",
@@ -1236,15 +1254,6 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "총무 담당자 (일반계약직)",
-  "link": "https://toss.im/career/job-detail?gh_jid=6016364003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
  },
  {
   "bank": "toss",
