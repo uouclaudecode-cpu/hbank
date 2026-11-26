@@ -337,6 +337,124 @@
   "via": "공식 채용사이트"
  },
  {
+  "bank": "kbank",
+  "title": "SRE 엔지니어",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/135643",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-13T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Tech"
+ },
+ {
+  "bank": "kbank",
+  "title": "가상자산사업자(VASP) 제휴 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/135652",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-13T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "BizㆍMarketing"
+ },
+ {
+  "bank": "kbank",
+  "title": "법인여신 보증서대출 담당자(정규직)",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/135648",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-13T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "BizㆍMarketing"
+ },
+ {
+  "bank": "kbank",
+  "title": "법인여신 보증서대출 담당자(전문경력직)",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/135649",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-13T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "BizㆍMarketing"
+ },
+ {
+  "bank": "kbank",
+  "title": "마케팅 배너 기획 및 CRM 운영자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/135650",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-13T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "BizㆍMarketing"
+ },
+ {
+  "bank": "kbank",
+  "title": "언론 홍보 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/134972",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-13T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Management"
+ },
+ {
+  "bank": "kbank",
+  "title": "STR 모니터링 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/135492",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-13T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "Compliance"
+ },
+ {
+  "bank": "kbank",
+  "title": "금융사기 대응 기획",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/134965",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-13T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Customer"
+ },
+ {
+  "bank": "kbank",
+  "title": "여신사기 조사 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/135642",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-13T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "Customer"
+ },
+ {
+  "bank": "kbank",
+  "title": "고객센터 운영 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/134908",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-13T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "Customer"
+ },
+ {
+  "bank": "kakao",
+  "title": "교육/문화 어시스턴트 (체험형 인턴)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=273583",
+  "posted": "2026-11-25T00:00:00+09:00",
+  "deadline": "2026-12-14T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Management"
+ },
+ {
+  "bank": "kakao",
+  "title": "문화 콘텐츠 어시스턴트 (체험형 인턴)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=273585",
+  "posted": "2026-11-25T00:00:00+09:00",
+  "deadline": "2026-12-14T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Management"
+ },
+ {
   "bank": "kakao",
   "title": "제휴 상품 및 서비스 운영 담당자 (계약직)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=273332",
@@ -389,6 +507,14 @@
  },
  {
   "bank": "kb",
+  "title": "[수도권] KB국민은행 PT(스마트 어드바이저) 긴급채용(파장동점)",
+  "link": "https://recruit.incruit.com/kbstar/job/2611260003",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-31T23:59:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kb",
   "title": "[강동구청(점)] KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
   "link": "https://recruit.incruit.com/kbstar/job/2611250021",
   "posted": "2026-11-25T00:00:00+09:00",
@@ -400,14 +526,6 @@
   "title": "(잠실) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
   "link": "https://recruit.incruit.com/kbstar/job/2611250020",
   "posted": "2026-11-25T00:00:00+09:00",
-  "deadline": "2026-12-31T23:59:00+09:00",
-  "via": "공식 채용사이트"
- },
- {
-  "bank": "kb",
-  "title": "(석촌동) KB국민은행 \"영업점 텔러(파트타이머)\" 채용 공고_강남영업추진그룹",
-  "link": "https://recruit.incruit.com/kbstar/job/2611100016",
-  "posted": "2026-11-10T00:00:00+09:00",
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트"
  },
@@ -752,6 +870,36 @@
   "via": "공식 채용사이트",
   "career": "경력",
   "job_type": "금융 · 보험"
+ },
+ {
+  "bank": "im",
+  "title": "[iM뱅크] 파생상품 세일즈 인력 채용",
+  "link": "https://im.recruiter.co.kr/career/jobs/135740",
+  "posted": "2026-11-26T09:00:00+09:00",
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "경력"
+ },
+ {
+  "bank": "im",
+  "title": "[iM뱅크] 외화자금 전문인력 채용",
+  "link": "https://im.recruiter.co.kr/career/jobs/135748",
+  "posted": "2026-11-26T09:00:00+09:00",
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "career": "경력",
+  "job_type": "경력"
+ },
+ {
+  "bank": "kbank",
+  "title": "금융 후선업무 담당자",
+  "link": "https://kbank.recruiter.co.kr/career/jobs/134839",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "career": "",
+  "job_type": "Customer"
  },
  {
   "bank": "kyongnam",
@@ -1246,6 +1394,15 @@
  },
  {
   "bank": "toss",
+  "title": "자금 운영 담당자 (일반계약직)",
+  "link": "https://toss.im/career/job-detail?gh_jid=8217449003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
   "title": "수신상품 기획 담당자 (기업뱅킹)",
   "link": "https://toss.im/career/job-detail?gh_jid=8152756003",
   "posted": null,
@@ -1333,5 +1490,23 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
+  "title": "QA 어시스턴트",
+  "link": "https://toss.im/career/job-detail?gh_jid=8216892003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "단기계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "QA Specialist (일반계약직)",
+  "link": "https://toss.im/career/job-detail?gh_jid=7598918003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "계약직"
  }
 ]
