@@ -1,33 +1,5 @@
 [
  {
-  "bank": "busan",
-  "title": "(접수기간 연장)부산은행 신용협동조합 및 노동조합 사무직원 채용 공고",
-  "link": "https://busanbank.recruiter.co.kr/career/jobs/134545",
-  "posted": "2026-11-16T14:00:00+09:00",
-  "deadline": "2026-11-26T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "career": "",
-  "job_type": "경영기획 · 지원"
- },
- {
-  "bank": "kakao",
-  "title": "세무 업무 담당자 (계약직)",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=269639",
-  "posted": "2026-10-19T00:00:00+09:00",
-  "deadline": "2026-11-26T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Finance"
- },
- {
-  "bank": "kakao",
-  "title": "서비스 기획자 - 신사업",
-  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=266112",
-  "posted": "2026-09-09T00:00:00+09:00",
-  "deadline": "2026-11-26T23:59:00+09:00",
-  "via": "공식 채용사이트",
-  "job_type": "Service & Biz"
- },
- {
   "bank": "kb",
   "title": "[금융사기예방Unit] 파트타이머 채용 공고 (전기통신금융사기 모니터링_주중 야간)",
   "link": "https://recruit.incruit.com/kbstar/job/2611230022",
@@ -465,6 +437,15 @@
  },
  {
   "bank": "kakao",
+  "title": "수신 상품/서비스 운영 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=264465",
+  "posted": "2026-08-26T00:00:00+09:00",
+  "deadline": "2026-12-15T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
   "title": "수신업무 도메인 개발자",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=243233",
   "posted": "2026-02-05T10:00:00+09:00",
@@ -495,6 +476,24 @@
   "posted": "2026-11-17T00:00:00+09:00",
   "deadline": "2026-12-16T23:59:00+09:00",
   "via": "공식 채용사이트"
+ },
+ {
+  "bank": "kakao",
+  "title": "광고 세일즈 운영 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=273722",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-17T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
+ },
+ {
+  "bank": "kakao",
+  "title": "공적/사적구제 운영 담당자 (계약직)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=273724",
+  "posted": "2026-11-26T00:00:00+09:00",
+  "deadline": "2026-12-17T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Customer Service"
  },
  {
   "bank": "kakao",
@@ -953,6 +952,15 @@
  },
  {
   "bank": "toss",
+  "title": "AI 매니저",
+  "link": "https://toss.im/career/job-detail?gh_jid=8217490003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
   "title": "AIOps 플랫폼 엔지니어",
   "link": "https://toss.im/career/job-detail?gh_jid=7702581003",
   "posted": null,
@@ -1304,6 +1312,15 @@
  },
  {
   "bank": "toss",
+  "title": "시장운용팀 리더",
+  "link": "https://toss.im/career/job-detail?gh_jid=8213831003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
+ },
+ {
+  "bank": "toss",
   "title": "여신관리 담당자",
   "link": "https://toss.im/career/job-detail?gh_jid=6255661003",
   "posted": null,
@@ -1382,6 +1399,15 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "계약직"
+ },
+ {
+  "bank": "toss",
+  "title": "카프카 엔지니어",
+  "link": "https://toss.im/career/job-detail?gh_jid=8210340003",
+  "posted": null,
+  "deadline": null,
+  "via": "공식 채용사이트",
+  "job_type": "정규직"
  },
  {
   "bank": "toss",
@@ -1466,26 +1492,8 @@
  },
  {
   "bank": "toss",
-  "title": "카프카 엔지니어 (Kafka Engineer)",
-  "link": "https://toss.im/career/job-detail?gh_jid=8210340003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
   "title": "카드상품 Manager (기업뱅킹)",
   "link": "https://toss.im/career/job-detail?gh_jid=8152755003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "시장운용팀 리더 (Markets & Investment Team Leader)",
-  "link": "https://toss.im/career/job-detail?gh_jid=8213831003",
   "posted": null,
   "deadline": null,
   "via": "공식 채용사이트",

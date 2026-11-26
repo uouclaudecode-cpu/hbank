@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:12:23.356788+09:00",
+ "updated": "2026-11-27T06:28:44.656292+09:00",
  "sources": {
   "google_news": true,
   "naver": true,
@@ -8,9 +8,9 @@
   "alio": true
  },
  "naver_status": {
-  "requests": 52,
-  "items": 5198,
-  "kept": 2033,
+  "requests": 53,
+  "items": 5300,
+  "kept": 2091,
   "error": "",
   "mode": "hub",
   "fields": [
