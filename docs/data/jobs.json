@@ -147,6 +147,14 @@
   "job_type": "Service & Biz"
  },
  {
+  "bank": "kb",
+  "title": "[금융사기예방Unit] 파트타이머 채용 공고 (전기통신금융사기 모니터링_주말)",
+  "link": "https://recruit.incruit.com/kbstar/job/2611270019",
+  "posted": "2026-11-27T17:10:00+09:00",
+  "deadline": "2026-12-03T18:00:00+09:00",
+  "via": "공식 채용사이트"
+ },
+ {
   "bank": "kakao",
   "title": "데이터 엔지니어 - Data Product",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=262305",
@@ -244,6 +252,16 @@
   "deadline": "2026-12-06T23:59:00+09:00",
   "via": "공식 채용사이트",
   "career": "경력",
+  "job_type": "수시"
+ },
+ {
+  "bank": "kyongnam",
+  "title": "BNK경남은행 전문계약직 채용공고(세무사, 회계사)",
+  "link": "https://knbank.recruiter.co.kr/career/jobs/135850",
+  "posted": "2026-11-27T00:00:00+09:00",
+  "deadline": "2026-12-06T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "career": "신입",
   "job_type": "수시"
  },
  {
@@ -497,20 +515,21 @@
  },
  {
   "bank": "kakao",
+  "title": "LLM 서빙 및 추론 최적화 엔지니어",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=262701",
+  "posted": "2026-08-10T00:00:00+09:00",
+  "deadline": "2026-12-18T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "AI"
+ },
+ {
+  "bank": "kakao",
   "title": "카카오뱅크 인재풀 등록",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=203574",
   "posted": "2025-01-01T00:00:00+09:00",
   "deadline": "2026-12-31T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "상시채용"
- },
- {
-  "bank": "kb",
-  "title": "[수도권] KB국민은행 PT(스마트 어드바이저) 긴급채용(파장동점)",
-  "link": "https://recruit.incruit.com/kbstar/job/2611260003",
-  "posted": "2026-11-26T00:00:00+09:00",
-  "deadline": "2026-12-31T23:59:00+09:00",
-  "via": "공식 채용사이트"
  },
  {
   "bank": "kb",
@@ -1372,15 +1391,6 @@
   "deadline": null,
   "via": "공식 채용사이트",
   "job_type": "정규직"
- },
- {
-  "bank": "toss",
-  "title": "자산 담당자 (일반계약직) (2년 이하)",
-  "link": "https://toss.im/career/job-detail?gh_jid=7559116003",
-  "posted": null,
-  "deadline": null,
-  "via": "공식 채용사이트",
-  "job_type": "계약직"
  },
  {
   "bank": "toss",
