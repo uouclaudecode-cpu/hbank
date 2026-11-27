@@ -311,6 +311,15 @@
  },
  {
   "bank": "kakao",
+  "title": "네트워크 아키텍트",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=273846",
+  "posted": "2026-11-27T00:00:00+09:00",
+  "deadline": "2026-12-11T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Infra"
+ },
+ {
+  "bank": "kakao",
   "title": "금융기술연구소 홈페이지 콘텐츠 담당자 (계약직)",
   "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=263947",
   "posted": "2026-08-21T00:00:00+09:00",
@@ -512,6 +521,15 @@
   "deadline": "2026-12-17T23:59:00+09:00",
   "via": "공식 채용사이트",
   "job_type": "Customer Service"
+ },
+ {
+  "bank": "kakao",
+  "title": "콘텐츠 제작 어시스턴트 (체험형 인턴)",
+  "link": "https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=273858",
+  "posted": "2026-11-27T00:00:00+09:00",
+  "deadline": "2026-12-17T23:59:00+09:00",
+  "via": "공식 채용사이트",
+  "job_type": "Service & Biz"
  },
  {
   "bank": "kakao",
